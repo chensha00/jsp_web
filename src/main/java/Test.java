@@ -21,5 +21,7 @@ public class Test extends HttpServlet{
 
     public static void main(String[] args){
 //        HttpServletRequest
+        System.out.println("test");
+        System.out.println("test");
     }
 }
